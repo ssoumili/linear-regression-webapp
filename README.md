@@ -46,7 +46,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 🙋‍♂️ Support
 💙 If you like this project, give it a ⭐ and share it with friends!
 
-[☕ Buy me a coffee](https://www.buymeacoffee.com/shubhayu64)
-
 ***
 Made with ❤️ and Python
